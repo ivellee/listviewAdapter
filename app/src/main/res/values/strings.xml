@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Contact List</string>
+
+    <string name="contact_name_miguel">Miguel Torres</string>
+    <string name="contact_phone_miguel">555-1478</string>
+    <string name="contact_email_miguel">miguel@example.com</string>
+
+    <string name="contact_name_valentina">Valentina Reyes</string>
+    <string name="contact_phone_valentina">555-2589</string>
+    <string name="contact_email_valentina">valentina@example.com</string>
+
+    <string name="contact_name_andres">Andrés Mendoza</string>
+    <string name="contact_phone_andres">555-3697</string>
+    <string name="contact_email_andres">andres@example.com</string>
+
+    <string name="contact_name_camila">Camila Vargas</string>
+    <string name="contact_phone_camila">555-4785</string>
+    <string name="contact_email_camila">camila@example.com</string>
+
+    <string name="contact_name_luis">Luis Ortega</string>
+    <string name="contact_phone_luis">555-5896</string>
+    <string name="contact_email_luis">luis@example.com</string>
+
+    <string name="contact_name_ines">Inés Silva</string>
+    <string name="contact_phone_ines">555-6928</string>
+    <string name="contact_email_ines">ines@example.com</string>
+
+    <string name="contact_name_nicolas">Nicolás Martínez</string>
+    <string name="contact_phone_nicolas">555-7134</string>
+    <string name="contact_email_nicolas">nicolas@example.com</string>
+
+    <string name="contact_name_isabella">Isabella Romero</string>
+    <string name="contact_phone_isabella">555-8249</string>
+    <string name="contact_email_isabella">isabella@example.com</string>
+
+    <string name="contact_name_fernando">Fernando Muñoz</string>
+    <string name="contact_phone_fernando">555-9357</string>
+    <string name="contact_email_fernando">fernando@example.com</string>
+
+    <string name="contact_name_paula">Paula Domínguez</string>
+    <string name="contact_phone_paula">555-0475</string>
+    <string name="contact_email_paula">paula@example.com</string>
+
+    <string name="contact_image_desc">Imagen de contacto</string>
+</resources>
+
